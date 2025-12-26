@@ -1,7 +1,7 @@
 # Hi there, I'm Rosh 👋 
 👩🏻‍💻 Data Analyst and Consultant - sharing about my work and learnings in data <br/>
 😺 Working at [The Information Lab](https://www.theinformationlab.co.uk/) <br/>
-🧑‍🎓 Studied [Biological Sciences](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Warwick, UK <br/>
+🧑‍🎓 Studied Biological Sciencesat the University of Warwick, UK <br/>
 💭 Currently learning more about SQL, Python, and Data Engineering <br/>
 
 Welcome to my GitHub!
