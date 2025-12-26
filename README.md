@@ -1,7 +1,10 @@
-# Hi there, I'm Rosh Khan 👋
+# Hi there, I'm Rosh 👋 
+👩🏻‍💻 Data Analyst and Consultant - sharing about my work and learnings in data <br/>
+😺 Working at [The Information Lab](https://www.theinformationlab.co.uk/) <br/>
+🧑‍🎓 Studied [Biological Sciences](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Warwick, UK <br/>
+💭 Currently learning more about SQL, Python, and Data Engineering <br/>
 
 Welcome to my GitHub!
-<br>
 <br>
 ## Skills & Software
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
@@ -39,8 +42,18 @@ Welcome to my GitHub!
     <img src="https://media.licdn.com/dms/image/v2/D5622AQFfun5Ep7MhyQ/feedshare-shrink_1280/B56ZevPhqNH8Ao-/0/1750991774007?e=2147483647&v=beta&t=71e564veoenMLTLyhqVXa76zbN_mOQ-kQOYZE8k0kHA" width="20%">
   </a>
 </div>
+<br/> 
 
-##  Featured Blogs
+##  Check out some of my recent pieces of work
+
+| Project | Description | Skills / Softwares Used |
+|---------|-------------|-------------------------|
+| Serverless API Pipeline | x | x |
+| Loading, Staging, Schemas! | x | x |
+| Leetcode | x | x |
+| Loading, Staging, Schemas! v2 | x | x |
+
+##  And why not read some of my blogs?
 
 <div align="center">
   <a href="https://www.thedataschool.co.uk/rosh-khan/python-string-functions-cheat-sheet-for-beginners/" title="Python String Functions Cheat Sheet for Beginners">
