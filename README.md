@@ -48,10 +48,11 @@ Welcome to my GitHub!
 
 | Project | Description | Skills / Softwares Used |
 |---------|-------------|-------------------------|
-| Serverless API Pipeline | x | x |
-| Loading, Staging, Schemas! | x | x |
-| Leetcode | x | x |
-| Loading, Staging, Schemas! v2 | x | x |
+| [GCP Serverless API Data Pipeline](https://github.com/roshkhan2000/GCP-Serverless-API-Data-Pipeline) | A pipeline that ingests API data hourly, stores it to blob storage, and loads it to a warehouse for analysis. | GCP, Python, REST API, Functions, Cloud Scheduler, Cloud Storage (blob), BigQuery, SQL |
+| [Leetcode](https://github.com/roshkhan2000/SQL-LeetCode) | A collection of 50+ Leetcode challenges solved | SQL / Snowflake |
+| [Ready, Set, Schema!](https://github.com/roshkhan2000/sql-olympics) | A pipeline that ingests a CSV file, loads it into a staging area, and materializes it as a table. This table is then taken by dbt to transform into multiple downstream tables organised into bronze, silver, and gold layers. | Snowflake, SQL, dbt, DDL DML, staging, data modelling |
+| [Preppin' Data Challenges](https://github.com/roshkhan2000/Preppin-Data) | A collection of 20+ Preppin' Data challenges solved | SQL / Snowflake |
+| [Ready, Set, Schema! v2](https://github.com/roshkhan2000/Lego-Snowflake-Project) | A pipeline that ingests multiple CSV, loads it into a staging area, and materializes it as a table with PKs, FKs, and ER diagram. These tables are modelled into a custom view for data analysis.  | DBeaver, Snowflake, staging, SQL, DDL, DML, data modelling |
 
 ##  And why not read some of my blogs?
 
