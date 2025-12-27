@@ -44,7 +44,7 @@ Welcome to my GitHub!
 </div>
 <br/> 
 
-##  Check out some of my recent pieces of work
+##  Check out some of my recent work
 
 | Project | Description | Skills / Softwares Used |
 |---------|-------------|-------------------------|
