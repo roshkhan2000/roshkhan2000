@@ -39,7 +39,8 @@ Welcome to my GitHub!
     <img src="https://templates.images.credential.net/16377649693790199922879811460604.png" width="20%">
   </a>
   <a href="https://media.licdn.com/dms/image/v2/D5622AQFfun5Ep7MhyQ/feedshare-shrink_1280/B56ZevPhqNH8Ao-/0/1750991774007?e=2147483647&v=beta&t=71e564veoenMLTLyhqVXa76zbN_mOQ-kQOYZE8k0kHA">
-    <img src="https://media.licdn.com/dms/image/v2/D5622AQFfun5Ep7MhyQ/feedshare-shrink_1280/B56ZevPhqNH8Ao-/0/1750991774007?e=2147483647&v=beta&t=71e564veoenMLTLyhqVXa76zbN_mOQ-kQOYZE8k0kHA" width="20%">
+    <img width="20%" alt="1750991774007-removebg-preview" src="https://github.com/user-attachments/assets/ba531a69-0983-472a-afe5-4ec956cf5de6" />
+
   </a>
 </div>
 <br/> 
@@ -59,40 +60,39 @@ Welcome to my GitHub!
 <div align="center">
   <a href="https://www.thedataschool.co.uk/rosh-khan/python-string-functions-cheat-sheet-for-beginners/" title="Python String Functions Cheat Sheet for Beginners">
       <img src="https://images.unsplash.com/photo-1649180556628-9ba704115795?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHB5dGhvbnxlbnwwfHx8fDE3NjA4MDEzNjF8MA&ixlib=rb-4.1.0&q=80&w=2000"
-        style="width: 250px; height: 166px; object-fit: scale-down;">
+        style="width: 200px; height: 133px; object-fit: scale-down;">
   </a>
   <a href="https://www.thedataschool.co.uk/rosh-khan/how-to-load-a-csv-file-into-a-snowflake-table-using-a-stage/" title="How to Load a CSV File into a Snowflake Table Using a Stage">
-      <img src="https://www.thedataschool.co.uk/content/images/2025/10/2-Jul-15-2021-10-33-13-96-AM.webp" style="width: 250px; height: 166px; object-fit: scale-down;">
+      <img src="https://www.thedataschool.co.uk/content/images/2025/10/2-Jul-15-2021-10-33-13-96-AM.webp" style="width: 200px; height: 133px; object-fit: scale-down;">
   </a>
   <a href="https://www.thedataschool.co.uk/rosh-khan/dbt-how-to-create-custom-id-fields-when-your-data-doesnt-come-with-one/" title="DBT: How to Create Custom ID Fields When Your Data Doesn't Come with One">
-      <img src="https://www.thedataschool.co.uk/content/images/2025/10/4d3539d40ae7e96ed5655d3860e22510fcb32a64-2560x1440-1.webp" style="width: 250px; height: 166px; object-fit: scale-down;">
+      <img src="https://www.thedataschool.co.uk/content/images/2025/10/4d3539d40ae7e96ed5655d3860e22510fcb32a64-2560x1440-1.webp" style="width: 200px; height: 133px; object-fit: scale-down;">
   </a>
   <a href="https://www.thedataschool.co.uk/rosh-khan/pivot-and-unpivot-snowflake/" title="Pivot and Unpivot in Snowflake">
-      <img src="https://images.unsplash.com/photo-1706696951283-04927dfe50a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE0fHxzbm93Zmxha2V8ZW58MHx8fHwxNzU3MjU2NzQ4fDA&ixlib=rb-4.1.0&q=80&w=2000" style="width: 250px; height: 166px; object-fit: scale-down;">
+      <img src="https://images.unsplash.com/photo-1706696951283-04927dfe50a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE0fHxzbm93Zmxha2V8ZW58MHx8fHwxNzU3MjU2NzQ4fDA&ixlib=rb-4.1.0&q=80&w=2000" style="width: 200px; height: 133px; object-fit: scale-down;">
   </a>
   <a href="https://www.thedataschool.co.uk/rosh-khan/using-notion-api-with-alteryx/" title="Using the Notion API with Alteryx">
-      <img src="https://images.unsplash.com/photo-1729860648809-df29db90016a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE1fHxub3Rpb258ZW58MHx8fHwxNzU2MjkyOTM2fDA&ixlib=rb-4.1.0&q=80&w=2000" style="width: 250px; height: 166px; object-fit: scale-down;">
+      <img src="https://images.unsplash.com/photo-1729860648809-df29db90016a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE1fHxub3Rpb258ZW58MHx8fHwxNzU2MjkyOTM2fDA&ixlib=rb-4.1.0&q=80&w=2000" style="width: 200px; height: 133px; object-fit: scale-down;">
   </a>
   <a href="https://www.thedataschool.co.uk/rosh-khan/difference-between-format-cast-and-convert-in-ms-sql-server/" title="Difference Between FORMAT, CAST, and CONVERT in MS SQL Server">
-      <img src="https://images.unsplash.com/photo-1662027044921-6febc57a0c53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fHNxbHxlbnwwfHx8fDE3NTU0NTI0MTh8MA&ixlib=rb-4.1.0&q=80&w=2000" style="width: 250px; height: 166px; object-fit: scale-down;">
+      <img src="https://images.unsplash.com/photo-1662027044921-6febc57a0c53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fHNxbHxlbnwwfHx8fDE3NTU0NTI0MTh8MA&ixlib=rb-4.1.0&q=80&w=2000" style="width: 200px; height: 133px; object-fit: scale-down;">
   </a>
   <a href="https://www.thedataschool.co.uk/rosh-khan/how-to-14/" title="How to 14">
-      <img src="https://www.thedataschool.co.uk/content/images/2025/11/Screenshot-2025-11-02-193858.png" style="width: 250px; height: 166px; object-fit: scale-down;">
+      <img src="https://www.thedataschool.co.uk/content/images/2025/11/Screenshot-2025-11-02-193858.png" style="width: 200px; height: 133px; object-fit: scale-down;">
   </a>
   <a href="https://www.thedataschool.co.uk/rosh-khan/alteryx-dynamic-input-different-schema-solution/" title="Alteryx Dynamic Input: Different Schema Solution">
-      <img src="https://www.thedataschool.co.uk/content/images/2025/10/GcLV1cZasAAXGDW.png" style="width: 250px; height: 166px; object-fit: scale-down;">
+      <img src="https://www.thedataschool.co.uk/content/images/2025/10/GcLV1cZasAAXGDW.png" style="width: 200px; height: 133px; object-fit: scale-down;">
   </a>
   <a href="https://www.thedataschool.co.uk/rosh-khan/ddl-data-definition-language-in-sql-the-basics-you-actually-need-to-know/" title="DDL: Data Definition Language in SQL - The Basics You Actually Need to Know">
-      <img src="https://images.unsplash.com/photo-1662027044921-6febc57a0c53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fHNxbHxlbnwwfHx8fDE3NTUwMjMzNjF8MA&ixlib=rb-4.1.0&q=80&w=2000" style="width: 250px; height: 166px; object-fit: scale-down;">
+      <img src="https://images.unsplash.com/photo-1662027044921-6febc57a0c53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fHNxbHxlbnwwfHx8fDE3NTUwMjMzNjF8MA&ixlib=rb-4.1.0&q=80&w=2000" style="width: 200px; height: 133px; object-fit: scale-down;">
   </a>
   <a href="https://www.thedataschool.co.uk/rosh-khan/what-are-dbt-packages-and-how-to-use-them-2/" title="What are DBT Packages and How to Use Them?">
-      <img src="https://www.thedataschool.co.uk/content/images/2025/10/4d3539d40ae7e96ed5655d3860e22510fcb32a64-2560x1440.webp" style="width: 250px; height: 166px; object-fit: scale-down;">
+      <img src="https://www.thedataschool.co.uk/content/images/2025/10/4d3539d40ae7e96ed5655d3860e22510fcb32a64-2560x1440.webp" style="width: 200px; height: 133px; object-fit: scale-down;">
   </a>
-  <a href="https://www.thedataschool.co.uk/rosh-khan/ddl-data-definition-language-in-sql-the-basics-you-actually-need-to-know/" title="DDL: Data Definition Language in SQL - The Basics You Actually Need to Know (Repeated)">
-      <img src="https://images.unsplash.com/photo-1662027044921-6febc57a0c53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fHNxbHxlbnwwfHx8fDE3NTUwMjMzNjF8MA&ixlib=rb-4.1.0&q=80&w=2000" style="width: 250px; height: 166px; object-fit: scale-down;">
+  <a href="https://www.thedataschool.co.uk/rosh-khan/how-to-build-a-serverless-api-data-pipeline-on-gcp-part-1-2/" title="How to Build a Serverless API Data Pipeline on GCP">
+      <img src="https://images.unsplash.com/photo-1728710718080-3cf64d995d2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGdvb2dsZSUyMGNsb3VkfGVufDB8fHx8MTc2NjY4OTg5MXww&ixlib=rb-4.1.0&q=80&w=2000" style="width: 200px; height: 133px; object-fit: fill;">
   </a>
   <a href="https://www.thedataschool.co.uk/rosh-khan/my-experience-and-advice-on-passing-the-alteryx-advanced-exam/" title="My Experience and Advice on Passing the Alteryx Advanced Exam">
-      <img src="https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEwfHxleGFtfGVufDB8fHx8MTc1NDc1NTQwMnww&ixlib=rb-4.1.0&q=80&w=2000" style="width: 250px; height: 166px; object-fit: scale-down;">
+      <img src="https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEwfHxleGFtfGVufDB8fHx8MTc1NDc1NTQwMnww&ixlib=rb-4.1.0&q=80&w=2000" style="width: 200px; height: 133px; object-fit: scale-down;">
   </a>
 </div>
-
