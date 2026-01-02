@@ -1,5 +1,5 @@
 # Hi there, I'm Rosh 👋 
-👩🏻‍💻 Data Analyst and Consultant
+👩🏻‍💻 Data Analyst and Consultant <br/>
 😺 Working at [The Information Lab](https://www.theinformationlab.co.uk/) <br/>
 🧑‍🎓 Studied Biological Sciences at the University of Warwick, UK <br/>
 💭 Currently learning more about SQL, Python, and Data Engineering <br/>
