@@ -36,7 +36,6 @@ Alongside client work, I’m increasingly focused on data engineering: learning 
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </div>
-<br>
 <br/>
 
 ## 🎓 Certifications
@@ -76,21 +75,36 @@ Alongside client work, I’m increasingly focused on data engineering: learning 
 | [Ready, Set, Schema!](https://github.com/roshkhan2000/sql-olympics) | A pipeline that ingests a CSV file, loads it into a staging area, and materialises it as a table. This table is then taken by dbt to transform into multiple downstream tables organised into bronze, silver, and gold dbt models. | Snowflake, SQL, dbt, DDL DML, staging, data modelling |
 | [Preppin' Data Challenges](https://github.com/roshkhan2000/Preppin-Data) | A collection of 20+ Preppin' Data challenges solved. | SQL / Snowflake |
 | [Ready, Set, Schema! v2](https://github.com/roshkhan2000/Lego-Snowflake-Project) | A pipeline that ingests multiple CSVs, loads it into a staging area, and materialises it as a table with PKs, FKs, and ER diagram. These tables are modelled into a custom view for data analysis.  | DBeaver, Snowflake, staging, SQL, DDL, DML, data modelling |
-<br>
 
-## 📊 [Tableau Public](https://public.tableau.com/app/profile/roshaan.khan/vizzes)
+## 📊 Tableau Public
 <div align="center">
 <a href="https://public.tableau.com/app/profile/roshaan.khan/viz/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau">
-  <img src="https://public.tableau.com/static/images/Ke/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau/4_3.png"> 
+  <img src="https://public.tableau.com/static/images/Ke/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau/4_3.png" width="40%"> 
+</a>
+
+<a href="https://public.tableau.com/app/profile/roshaan.khan/viz/MakeOverMonday2023Week35/Dashboard">
+  <img src="https://public.tableau.com/static/images/Ma/MakeOverMonday2023Week35/Dashboard/4_3.png" width="40%">
+</a>
+
+<br>
+
+<a href="https://public.tableau.com/app/profile/roshaan.khan/viz/MoM2024Wk52/Dashboard">
+  <img src="https://public.tableau.com/static/images/Mo/MoM2024Wk52/Dashboard/4_3.png" width="40%">
+</a>
+
+<a href="https://public.tableau.com/app/profile/roshaan.khan/viz/WOW2022Week22MLBHallofFamersRanks/Dashboard1">
+  <img src="https://public.tableau.com/static/images/WO/WOW2022Week22MLBHallofFamersRanks/Dashboard1/4_3.png" width="40%">
 </a>
 </div>
 
 <div align="center">
   
-[Viz Of The Day | Kevin and Ken Doing Cool Stuff in Tableau](https://public.tableau.com/app/profile/roshaan.khan/viz/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau)
-</div>
+[Kevin and Ken Doing Cool Stuff in Tableau | VOTD](https://public.tableau.com/app/profile/roshaan.khan/viz/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau) <br>
+[MakeOverMonday 2023 Week 35](https://public.tableau.com/app/profile/roshaan.khan/viz/MakeOverMonday2023Week35/Dashboard) <br>
+[MakeOverMonday 2024 Week 52](https://public.tableau.com/static/images/Mo/MoM2024Wk52/Dashboard/4_3.png) <br>
+[MLB Hall of Famers Ranks](https://public.tableau.com/static/images/WO/WOW2022Week22MLBHallofFamersRanks/Dashboard1/4_3.png) <br>
 
-<br/>
+</div>
 
 ## 📖 And why not read a blog or two?
 
