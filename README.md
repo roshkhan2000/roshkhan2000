@@ -95,6 +95,16 @@ Check out all of my blogs: [Rosh Khan The Data School Blog](https://www.thedatas
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
+    <!-- Dribbble / Blog -->
+  <a href="https://public.tableau.com/app/profile/roshaan.khan/vizzes" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="50" height="50" alt="Dribbble" title="Dribbble" />
+    </picture>
+  </a>
+</p>
+
   <!-- GitHub -->
   <a href="https://www.github.com/roshkhan2000" target="_blank" rel="noreferrer">
     <picture>
