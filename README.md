@@ -18,7 +18,7 @@ I started my career in data at The Information Lab as a Data Analytics Consultan
   - Designed and delivered an end-to-end Power Automate (RPA), Alteryx, and Azure solution, reducing a 3-month manual annual process to a 7-hour automated workflow
   - Enabled monthly, multi-million-pound, reporting for the first time
 
-Alongside client work, I’m increasingly focused on data engineering, actively learning Python, SQL, and core data engineering principles to build scalable, well-designed data solutions.
+Alongside client work, I’m increasingly focused on data engineering: learning Python, SQL, and core data engineering principles.
 <br>
 <br>
 
