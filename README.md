@@ -1,9 +1,10 @@
 # Hi there, I'm Rosh <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> 
+
 👩🏻‍💻 Data Analyst and Consultant <br/>
 😺 Working at [The Information Lab](https://www.theinformationlab.co.uk/) <br/>
 🧑‍🎓 Studied Biological Sciences at the University of Warwick, UK <br/>
 💭 Currently learning more about SQL, Python, and Data Engineering <br/>
-<br/>
+
 Welcome to my GitHub!
 <br/>
 
@@ -90,12 +91,43 @@ Alongside client work, I’m increasingly focused on data engineering: learning 
 <br>
 
 Check out all of my blogs: [Rosh Khan The Data School Blog](https://www.thedataschool.co.uk/blog/rosh-khan/)
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
+<p align="center">
+  <!-- GitHub -->
+  <a href="https://www.github.com/roshkhan2000" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" alt="GitHub" title="GitHub" />
+    </picture>
+  </a>
 
-![](https://github-readme-stats.vercel.app/api?username=roshkhan2000&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=roshkhan2000&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roshkhan2000&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <!-- Twitter/X -->
+  <a href="https://www.x.com/rosh_data" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="" height="50" alt="Twitter" title="Twitter" />
+    </picture>
+  </a>
 
-</div>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/rosh-k-/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" alt="LinkedIn" title="LinkedIn" />
+    </picture>
+  </a>
 
+  <!-- Dribbble / Blog -->
+  <a href="https://www.thedataschool.co.uk/blog/rosh-khan/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="50" height="50" alt="Dribbble" title="Dribbble" />
+    </picture>
+  </a>
+</p>
