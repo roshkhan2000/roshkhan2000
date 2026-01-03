@@ -103,7 +103,6 @@ Check out all of my blogs: [Rosh Khan The Data School Blog](https://www.thedatas
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="50" height="50" alt="Dribbble" title="Dribbble" />
     </picture>
   </a>
-</p>
 
   <!-- GitHub -->
   <a href="https://www.github.com/roshkhan2000" target="_blank" rel="noreferrer">
