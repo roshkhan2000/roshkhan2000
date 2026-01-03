@@ -25,14 +25,14 @@ Alongside client work, I’m increasingly focused on data engineering: learning 
 ## 🛠️ Toolkit
 
 <div align="center">
-  <img src="https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-%2329B5E8.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-%2329B5E8.svg?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alteryx-%2329B5E8.svg?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/power_automate-34D399?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-FF694B?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/power_bi-FF694B?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/snowflake-28A0E5?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF8200?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alteryx-00A3CC?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/power_automate-0067B8?style=for-the-badge&logo=microsoft&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-0052CC?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </div>
 <br>
 
@@ -91,4 +91,11 @@ Alongside client work, I’m increasingly focused on data engineering: learning 
 
 Check out all of my blogs: [Rosh Khan The Data School Blog](https://www.thedataschool.co.uk/blog/rosh-khan/)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=roshkhan2000&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=roshkhan2000&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roshkhan2000&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
