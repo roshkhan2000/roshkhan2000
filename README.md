@@ -1,4 +1,4 @@
-# Hi there, I'm Rosh 👋 
+# Hi there, I'm Rosh <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> 
 👩🏻‍💻 Data Analyst and Consultant <br/>
 😺 Working at [The Information Lab](https://www.theinformationlab.co.uk/) <br/>
 🧑‍🎓 Studied Biological Sciences at the University of Warwick, UK <br/>
@@ -6,7 +6,6 @@
 <br/>
 Welcome to my GitHub!
 <br/>
-<br>
 
 ## 📊 My Journey into Data 
 
@@ -117,3 +116,5 @@ Alongside client work, I’m increasingly focused on data engineering, actively 
       <img src="https://images.unsplash.com/photo-1604134967494-8a9ed3adea0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEwfHxleGFtfGVufDB8fHx8MTc1NDc1NTQwMnww&ixlib=rb-4.1.0&q=80&w=2000" style="width: 200px; height: 133px; object-fit: scale-down;">
   </a>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
