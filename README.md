@@ -3,12 +3,13 @@
 👩🏻‍💻 Data Analyst and Consultant <br/>
 😺 Working at [The Information Lab](https://www.theinformationlab.co.uk/) <br/>
 🧑‍🎓 Studied Biological Sciences at the University of Warwick, UK <br/>
-💭 Currently learning more about SQL, Python, and Data Engineering <br/>
+🌱 Currently learning more about SQL, Python, and Data Engineering <br/>
 
 Welcome to my GitHub!
 <br/>
+<br/>
 
-## 📊 My Journey into Data 
+## 🚀 My Journey into Data 
 
 I started my career in data at The Information Lab as a Data Analytics Consultant in Dec 24, completing 4-month training covering data fundamentals, Tableau, Power BI, Alteryx, SQL, and consulting skills. Since training, I have:
 <br/>
@@ -21,7 +22,7 @@ I started my career in data at The Information Lab as a Data Analytics Consultan
 
 Alongside client work, I’m increasingly focused on data engineering: learning Python, SQL, and core data engineering principles.
 <br>
-<br>
+<br/>
 
 ## 🛠️ Toolkit
 
@@ -36,6 +37,7 @@ Alongside client work, I’m increasingly focused on data engineering: learning 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </div>
 <br>
+<br/>
 
 ## 🎓 Certifications
 
@@ -65,7 +67,7 @@ Alongside client work, I’m increasingly focused on data engineering: learning 
 </div>
 <br/> 
 
-## 📂 Check out some of my recent work
+## 📂 Some of my recent work
 
 | Project | Description | Skills / Softwares Used |
 |---------|-------------|-------------------------|
@@ -76,7 +78,21 @@ Alongside client work, I’m increasingly focused on data engineering: learning 
 | [Ready, Set, Schema! v2](https://github.com/roshkhan2000/Lego-Snowflake-Project) | A pipeline that ingests multiple CSVs, loads it into a staging area, and materialises it as a table with PKs, FKs, and ER diagram. These tables are modelled into a custom view for data analysis.  | DBeaver, Snowflake, staging, SQL, DDL, DML, data modelling |
 <br>
 
-## 📖 And why not read some of my blogs?
+## 📊 [Tableau Public](https://public.tableau.com/app/profile/roshaan.khan/vizzes)
+<div align="center">
+<a href="https://public.tableau.com/app/profile/roshaan.khan/viz/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau">
+  <img src="https://public.tableau.com/static/images/Ke/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau/4_3.png"> 
+</a>
+</div>
+
+<div align="center">
+  
+[Viz Of The Day | Kevin and Ken Doing Cool Stuff in Tableau](https://public.tableau.com/app/profile/roshaan.khan/viz/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau)
+</div>
+
+<br/>
+
+## 📖 And why not read a blog or two?
 
 <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="30%" />
 
