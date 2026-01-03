@@ -130,7 +130,7 @@ Check out all of my blogs: [Rosh Khan The Data School Blog](https://www.thedatas
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="50" height="50" alt="Dribbble" title="Dribbble" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="50" height="50" alt="Dribbble" title="Tableau Public" />
     </picture>
   </a>
 
@@ -166,7 +166,7 @@ Check out all of my blogs: [Rosh Khan The Data School Blog](https://www.thedatas
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="50" height="50" alt="Dribbble" title="Dribbble" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="50" height="50" alt="Dribbble" title="The Data School Blogs" />
     </picture>
   </a>
 </p>
