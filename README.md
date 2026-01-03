@@ -78,7 +78,6 @@ Alongside client work, I’m increasingly focused on data engineering: learning 
 ## 📖 And why not read some of my blogs?
 
 <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="30%" />
-<br>
 
 - [How to Biuld a Serverless API Data Pipeline on GCP](https://www.thedataschool.co.uk/rosh-khan/how-to-build-a-serverless-api-data-pipeline-on-gcp-part-1-2/)
 - [Load a CSV file into a Snfowflake Table using a Stage](https://www.thedataschool.co.uk/rosh-khan/how-to-load-a-csv-file-into-a-snowflake-table-using-a-stage/)
@@ -88,6 +87,7 @@ Alongside client work, I’m increasingly focused on data engineering: learning 
 - [Python String Functions Cheat Sheet for Beginners](https://www.thedataschool.co.uk/rosh-khan/python-string-functions-cheat-sheet-for-beginners/)
 - [Lateral Split_To_Table (Snowflake)](https://www.thedataschool.co.uk/rosh-khan/lateral-split_to_table-snowflake/)
 - [Qualify in SQL: A Cleaner Way to Filter Window Functions](https://www.thedataschool.co.uk/rosh-khan/qualify-in-sql/)
+<br>
 
 Check out all of my blogs: [Rosh Khan The Data School Blog](https://www.thedataschool.co.uk/blog/rosh-khan/)
 
