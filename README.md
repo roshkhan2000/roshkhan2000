@@ -77,7 +77,7 @@ Alongside client work, I’m increasingly focused on data engineering: learning 
 
 ## 📖 And why not read some of my blogs?
 
-<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="300" />
+<img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="30%" />
 <br>
 
 - [How to Biuld a Serverless API Data Pipeline on GCP](https://www.thedataschool.co.uk/rosh-khan/how-to-build-a-serverless-api-data-pipeline-on-gcp-part-1-2/)
