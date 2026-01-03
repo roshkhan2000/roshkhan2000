@@ -26,7 +26,7 @@ Alongside client work, I’m increasingly focused on data engineering, actively 
 
 <div align="center">
   <img src="https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2329B5E8.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%2329B5E8.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   <img src="https://img.shields.io/badge/dbt-%2329B5E8.svg?style=for-the-badge&logo=dbt&logoColor=white" />
   <img src="https://img.shields.io/badge/Alteryx-%2329B5E8.svg?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/power_automate-34D399?style=for-the-badge&logo=powerbi&logoColor=black" />
