@@ -71,7 +71,7 @@ Alongside client work, I’m increasingly focused on data engineering: learning 
 | Project | Description | Skills / Softwares Used |
 |---------|-------------|-------------------------|
 | [GCP Serverless API Data Pipeline](https://github.com/roshkhan2000/GCP-Serverless-API-Data-Pipeline) | A pipeline that ingests API data hourly, stores it to blob storage, and loads it to a warehouse for analysis. | GCP, Python, REST API, Functions, Cloud Scheduler, Cloud Storage (blob), BigQuery, SQL |
-| [Leetcode](https://github.com/roshkhan2000/SQL-LeetCode) | A collection of 50+ Leetcode challenges solved. | SQL / Snowflake |
+| [Leetcode](https://github.com/roshkhan2000/SQL-LeetCode) | A collection of 50+ Leetcode challenges solved. | SQL |
 | [OpenWeather API: Python & Azure](https://github.com/roshkhan2000/Azure-to-Blob-to-CSV-OpenWeatherMap-API-Python-Call) | A Python pipeline that fetches current weather data, timestamps it, stores raw and filtered JSON in Azure Blob Storage, and saves a local CSV. | Python, VS Code, Azure, Blob Storage |
 | [Ready, Set, Schema!](https://github.com/roshkhan2000/sql-olympics) | A pipeline that ingests a CSV file, loads it into a staging area, and materialises it as a table. This table is then taken by dbt to transform into multiple downstream tables organised into bronze, silver, and gold dbt models. | Snowflake, SQL, dbt, DDL DML, staging, data modelling |
 | [Preppin' Data Challenges](https://github.com/roshkhan2000/Preppin-Data) | A collection of 20+ Preppin' Data challenges solved. | SQL / Snowflake |
