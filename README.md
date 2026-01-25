@@ -43,22 +43,22 @@ Alongside client work, I’m increasingly focused on data engineering: learning 
 
 <div align="center">
   <a href="https://www.credly.com/badges/f85c0f79-943c-40d2-aeaf-7748b1ff873e/embedded">
-    <img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" width="16.30%">
+    <img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" width="15%">
   </a>
   <a href="https://www.credly.com/badges/ae1ce0b7-5f24-430f-8ff4-ab88f00f5897/embedded">
-    <img src="https://images.credly.com/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png" width="16.30%">
+    <img src="https://images.credly.com/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png" width="15%">
   </a>
   <a href="https://www.credly.com/badges/448b48aa-3e2f-41fc-ae39-e28e4e98ced5/embedded">
-    <img src="https://images.credly.com/size/340x340/images/de878f56-515d-40e5-b102-e667192c6f08/Certification_Designer_Advanced.png" width="16.30%">
+    <img src="https://images.credly.com/size/340x340/images/de878f56-515d-40e5-b102-e667192c6f08/Certification_Designer_Advanced.png" width="15%">
   </a>
   <a href="https://learn.microsoft.com/en-us/users/roshkhan-1500/credentials/certification/data-analyst-associate?wt.mc_id=certnurture_eml1_email_wwl&source=docs&tab=credentials-tab">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="16.30%">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="15%">
   </a>
   <a href="https://credentials.getdbt.com/f11588a1-8237-49f3-b6a4-17db2be67e93#acc.AkHQVzLp">
-    <img src="https://templates.images.credential.net/16377649693790199922879811460604.png" width="16.30%">
+    <img src="https://templates.images.credential.net/16377649693790199922879811460604.png" width="15%">
   </a>
   <a href="https://media.licdn.com/dms/image/v2/D5622AQFfun5Ep7MhyQ/feedshare-shrink_1280/B56ZevPhqNH8Ao-/0/1750991774007?e=2147483647&v=beta&t=71e564veoenMLTLyhqVXa76zbN_mOQ-kQOYZE8k0kHA">
-    <img width="16.30%" alt="1750991774007-removebg-preview" src="https://github.com/user-attachments/assets/ba531a69-0983-472a-afe5-4ec956cf5de6" />
+    <img width="15%" alt="1750991774007-removebg-preview" src="https://github.com/user-attachments/assets/ba531a69-0983-472a-afe5-4ec956cf5de6" />
 
   </a>
 </div>
