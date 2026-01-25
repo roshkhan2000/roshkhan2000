@@ -13,9 +13,10 @@ Welcome to my GitHub!
 
 I started my career in data at The Information Lab as a Data Analytics Consultant in Dec 24, completing 4-month training covering data fundamentals, Tableau, Power BI, Alteryx, SQL, and consulting skills. Since training, I have:
 <br/>
-- Worked with a major UK telecoms company, driving Tableau enablement and scaling analytics adoption:
-  - Delivered 1,900 hours of training, learning paths, videos, and doctor sessions
-  - Saved 325 hours annually by optimising data ingestion and dashboard refresh processes
+- Worked with a major UK telecoms company, driving data enablement and scaling Tableau adoption:
+  - Delivered ~80 training videos and trained ~300 employees through instructor-led and self-paced learning
+  - Established doctor sessions, weekly Tableau challenges, and gamified dashboards to drive adoption
+  - Optimised dashboards and automated 8 data sources, cutting refresh times by 99%.
 - Worked with a leading healthcare provider, partnering with the Finance team to build and support analytics from the ground up:
   - Designed and delivered an end-to-end Power Automate (RPA), Alteryx, and Azure solution, reducing a 3-month manual annual process to a 7-hour automated workflow
   - Enabled monthly, multi-million-pound, reporting for the first time
