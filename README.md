@@ -80,6 +80,14 @@ Alongside client work, I’m increasingly focused on data engineering: learning 
 
 ## 📊 Tableau Public
 <div align="center">
+  
+[Kevin and Ken Doing Cool Stuff in Tableau | VOTD](https://public.tableau.com/app/profile/roshaan.khan/viz/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau) |
+[MakeOverMonday 2023 Week 35](https://public.tableau.com/app/profile/roshaan.khan/viz/MakeOverMonday2023Week35/Dashboard) <br>
+[MakeOverMonday 2024 Week 52](https://public.tableau.com/static/images/Mo/MoM2024Wk52/Dashboard/4_3.png) |
+[MLB Hall of Famers Ranks](https://public.tableau.com/static/images/WO/WOW2022Week22MLBHallofFamersRanks/Dashboard1/4_3.png) <br>
+
+</div>
+<div align="center">
 <a href="https://public.tableau.com/app/profile/roshaan.khan/viz/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau">
   <img src="https://public.tableau.com/static/images/Ke/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau/4_3.png" width="40%"> 
 </a>
@@ -98,15 +106,7 @@ Alongside client work, I’m increasingly focused on data engineering: learning 
   <img src="https://public.tableau.com/static/images/WO/WOW2022Week22MLBHallofFamersRanks/Dashboard1/4_3.png" width="40%">
 </a>
 </div>
-
-<div align="center">
-  
-[Kevin and Ken Doing Cool Stuff in Tableau | VOTD](https://public.tableau.com/app/profile/roshaan.khan/viz/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau) <br>
-[MakeOverMonday 2023 Week 35](https://public.tableau.com/app/profile/roshaan.khan/viz/MakeOverMonday2023Week35/Dashboard) <br>
-[MakeOverMonday 2024 Week 52](https://public.tableau.com/static/images/Mo/MoM2024Wk52/Dashboard/4_3.png) <br>
-[MLB Hall of Famers Ranks](https://public.tableau.com/static/images/WO/WOW2022Week22MLBHallofFamersRanks/Dashboard1/4_3.png) <br>
-
-</div>
+<br>
 
 ## 📖 And why not read a blog or two?
 
