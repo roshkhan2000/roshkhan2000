@@ -21,7 +21,7 @@ I started my career in data at The Information Lab as a Data Analytics Consultan
 - Driving data enablement and scaling Tableau adoption:
   - Delivered ~80 training videos and trained ~300 employees through instructor-led and self-paced learning
   - Established doctor sessions, weekly Tableau challenges, and gamified dashboards to drive adoption
-  - Optimised dashboards and automated 8 data sources, cutting refresh times by 99%.
+  - Optimised dashboards and automated 8 data sources, cutting refresh times by 99%
 
 `Awarded Client Champion of the Month: Jan 26`
 <div align="center">
