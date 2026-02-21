@@ -9,18 +9,41 @@
 <br/>
 <br/>
 
-## 🚀 My Journey into Data 
+## 🚀 My Work in Data 
 
-I started my career in data at The Information Lab as a Data Analytics Consultant in Dec 24, completing 4-month training covering data fundamentals, Tableau, Power BI, Alteryx, SQL, and consulting skills. Since training, I have:
+I started my career in data at The Information Lab as a Data Analytics Consultant in Dec 24, completing 4-month training covering data fundamentals, Tableau, Power BI, Alteryx, SQL, and consulting skills. Since training, my placement have been with a:
 <br/>
-- Worked with a **major UK telecoms company**, driving data enablement and scaling Tableau adoption:
+
+<details>
+<summary> Major UK Telecoms Company 📞 </summary>
+<br>
+  
+- Driving data enablement and scaling Tableau adoption:
   - Delivered ~80 training videos and trained ~300 employees through instructor-led and self-paced learning
   - Established doctor sessions, weekly Tableau challenges, and gamified dashboards to drive adoption
   - Optimised dashboards and automated 8 data sources, cutting refresh times by 99%.
-- Worked with a **leading healthcare provider**, partnering with the Finance team to build and support analytics from the ground up:
+
+`Awarded Client Champion of the Month: Jan 26`
+<div align="center">
+<img src="https://github.com/user-attachments/assets/b867490b-0a96-422b-a6ae-d92313e307ed" width="24%"/>
+<img src="https://github.com/user-attachments/assets/a1c9a866-1545-4983-8460-3d5a7f25cdf3" width="24%"/>
+<img src="https://github.com/user-attachments/assets/770acabb-2c7a-4f6a-85f7-d39311ce9a5e" width="24%"/>
+<img src="https://github.com/user-attachments/assets/af3652dd-37aa-4dc9-a99b-13606613c077" width="24%"/>
+</div>
+
+</details>
+
+<details>
+<summary> Leading Healthcare Provider ❤️ </summary>
+<br>
+
+- Partnering with the Finance team to build and support analytics from the ground up:
   - Designed and delivered an end-to-end Power Automate (RPA), Alteryx, and Azure solution, reducing a 3-month manual annual process to a 7-hour automated workflow
   - Enabled monthly, multi-million-pound, reporting for the first time
+  
+</details>
 
+<br>
 Alongside client work, I’m increasingly focused on data engineering: learning Python, SQL, and core data engineering principles.
 <br>
 <br/>
