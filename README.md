@@ -43,7 +43,6 @@ I started my career in data at The Information Lab as a Data Analytics Consultan
   
 </details>
 
-<br>
 Alongside client work, I’m increasingly focused on data engineering: learning Python, SQL, and core data engineering principles.
 <br>
 <br/>
@@ -87,7 +86,7 @@ Alongside client work, I’m increasingly focused on data engineering: learning 
 </div>
 <br/> 
 
-## 📂 Some of my recent work
+## 📂 Some of my recent projects
 
 | Project | Description | Skills / Softwares Used |
 |---------|-------------|-------------------------|
