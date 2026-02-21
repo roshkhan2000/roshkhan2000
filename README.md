@@ -5,7 +5,7 @@
 🧑‍🎓 Studied Biological Sciences at the University of Warwick, UK <br/>
 🌱 Currently learning more about SQL, Python, and Data Engineering <br/>
 
-Welcome to my GitHub!
+`Welcome to my GitHub!`
 <br/>
 <br/>
 
@@ -13,11 +13,11 @@ Welcome to my GitHub!
 
 I started my career in data at The Information Lab as a Data Analytics Consultant in Dec 24, completing 4-month training covering data fundamentals, Tableau, Power BI, Alteryx, SQL, and consulting skills. Since training, I have:
 <br/>
-- Worked with a major UK telecoms company, driving data enablement and scaling Tableau adoption:
+- Worked with a **major UK telecoms company**, driving data enablement and scaling Tableau adoption:
   - Delivered ~80 training videos and trained ~300 employees through instructor-led and self-paced learning
   - Established doctor sessions, weekly Tableau challenges, and gamified dashboards to drive adoption
   - Optimised dashboards and automated 8 data sources, cutting refresh times by 99%.
-- Worked with a leading healthcare provider, partnering with the Finance team to build and support analytics from the ground up:
+- Worked with a **leading healthcare provider**, partnering with the Finance team to build and support analytics from the ground up:
   - Designed and delivered an end-to-end Power Automate (RPA), Alteryx, and Azure solution, reducing a 3-month manual annual process to a 7-hour automated workflow
   - Enabled monthly, multi-million-pound, reporting for the first time
 
@@ -29,7 +29,7 @@ Alongside client work, I’m increasingly focused on data engineering: learning 
 
 <div align="center">
   <img src="https://img.shields.io/badge/snowflake-28A0E5?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/dbt-FF8200?style=for-the-badge&logo=dbt&logoColor=white" />
   <img src="https://img.shields.io/badge/Alteryx-00A3CC?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/power_automate-0067B8?style=for-the-badge&logo=microsoft&logoColor=black" />
