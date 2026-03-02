@@ -100,7 +100,10 @@ Alongside client work, I’m increasingly focused on data engineering: learning 
 ## 📊 Tableau Public
 <div align="center">
   
+`1x Viz Of The Day`<br> 
+
 [Kevin and Ken Doing Cool Stuff in Tableau | VOTD](https://public.tableau.com/app/profile/roshaan.khan/viz/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau) |
+[52 Weeks & 52 Charts of 2025](https://public.tableau.com/app/profile/roshaan.khan/viz/52Weeks52Chartsof2025/Dashboard) |
 [MakeOverMonday 2023 Week 35](https://public.tableau.com/app/profile/roshaan.khan/viz/MakeOverMonday2023Week35/Dashboard) <br>
 [MakeOverMonday 2024 Week 52](https://public.tableau.com/static/images/Mo/MoM2024Wk52/Dashboard/4_3.png) |
 [MLB Hall of Famers Ranks](https://public.tableau.com/static/images/WO/WOW2022Week22MLBHallofFamersRanks/Dashboard1/4_3.png) <br>
@@ -108,21 +111,25 @@ Alongside client work, I’m increasingly focused on data engineering: learning 
 </div>
 <div align="center">
 <a href="https://public.tableau.com/app/profile/roshaan.khan/viz/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau">
-  <img src="https://public.tableau.com/static/images/Ke/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau/4_3.png" width="40%"> 
+  <img src="https://public.tableau.com/static/images/Ke/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau/4_3.png" width="32%"> 
+</a>
+
+<a href="https://public.tableau.com/app/profile/roshaan.khan/viz/52Weeks52Chartsof2025/Dashboard">
+  <img src="https://github.com/user-attachments/assets/3b06a83f-14bf-4d88-a94b-1a33aa068cd8" width="32%"/>
 </a>
 
 <a href="https://public.tableau.com/app/profile/roshaan.khan/viz/MakeOverMonday2023Week35/Dashboard">
-  <img src="https://public.tableau.com/static/images/Ma/MakeOverMonday2023Week35/Dashboard/4_3.png" width="40%">
+  <img src="https://public.tableau.com/static/images/Ma/MakeOverMonday2023Week35/Dashboard/4_3.png" width="32%">
 </a>
 
 <br>
 
 <a href="https://public.tableau.com/app/profile/roshaan.khan/viz/MoM2024Wk52/Dashboard">
-  <img src="https://public.tableau.com/static/images/Mo/MoM2024Wk52/Dashboard/4_3.png" width="40%">
+  <img src="https://public.tableau.com/static/images/Mo/MoM2024Wk52/Dashboard/4_3.png" width="32%">
 </a>
 
 <a href="https://public.tableau.com/app/profile/roshaan.khan/viz/WOW2022Week22MLBHallofFamersRanks/Dashboard1">
-  <img src="https://public.tableau.com/static/images/WO/WOW2022Week22MLBHallofFamersRanks/Dashboard1/4_3.png" width="40%">
+  <img src="https://public.tableau.com/static/images/WO/WOW2022Week22MLBHallofFamersRanks/Dashboard1/4_3.png" width="32%">
 </a>
 </div>
 <br>
