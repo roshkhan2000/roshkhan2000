@@ -11,7 +11,7 @@
 
 ## 🚀 My Work in Data 
 
-I started my career in data at The Information Lab as a Data Analytics Consultant in Dec 24, completing 4-month training covering data fundamentals, Tableau, Power BI, Alteryx, SQL, and consulting skills. Since then, my engagements have been with a:
+I started my career in data at The Information Lab as a Data Analytics Consultant in Dec 24, completing 4-month training covering data fundamentals, Tableau, Power BI, Alteryx, SQL, and consulting skills. Since then, my highlights have included:
 <br/>
 
 <details>
