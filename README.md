@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-## 🚀 My Work in Data 
+## 🚀 My Work and Achievements Data 
 
 I started my career in data at The Information Lab as a Data Analytics Consultant in Dec 24, completing 4-month training covering data fundamentals, Tableau, Power BI, Alteryx, SQL, and consulting skills. Since then, my engagements have been with a:
 <br/>
@@ -43,8 +43,30 @@ I started my career in data at The Information Lab as a Data Analytics Consultan
   
 </details>
 
-Alongside client work, I’m increasingly focused on data engineering: learning Python, SQL, and core data engineering principles.
+
+<details>
+<summary>DataFam Rising Star 2026 ⭐</summary>
+
 <br>
+
+<table>
+  <tr>
+    <td width="55%" valign="centre">
+      <img src="https://github.com/user-attachments/assets/5038c8c3-8d8f-4f20-8adc-6ea52d80c690" width="50%" alt="DataFam Rising Stars 5th Cohort"/>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <img src="PASTE_BADGE_URL_HERE" width="220" alt="DataFam Rising Star Badge"/>
+      <br><br>
+      <h3>DataFam Rising Star 2026 🌟 </h3>
+      <p>Selected as one of <strong>82 Rising Stars</strong> across <strong>17 countries</strong> in the <strong>5th cohort</strong> of the DataFam Rising Stars programme — recognising emerging talent in the Tableau & broader data community.</p>
+      <p>The programme celebrates individuals making an early impact through their data work, community contributions, and passion for continuous learning.</p>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+
 <br/>
 
 ## 🛠️ Toolkit
