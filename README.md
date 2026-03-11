@@ -160,7 +160,7 @@ Alongside this, I’m increasingly focused on data engineering: learning Python,
 
 <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="30%" />
 
-- [How to Biuld a Serverless API Data Pipeline on GCP](https://www.thedataschool.co.uk/rosh-khan/how-to-build-a-serverless-api-data-pipeline-on-gcp-part-1-2/)
+- [How to Build a Serverless API Data Pipeline on GCP](https://www.thedataschool.co.uk/rosh-khan/how-to-build-a-serverless-api-data-pipeline-on-gcp-part-1-2/)
 - [Load a CSV file into a Snfowflake Table using a Stage](https://www.thedataschool.co.uk/rosh-khan/how-to-load-a-csv-file-into-a-snowflake-table-using-a-stage/)
 - [dbt: How to Create Custom ID Fields](https://www.thedataschool.co.uk/rosh-khan/dbt-how-to-create-custom-id-fields-when-your-data-doesnt-come-with-one/)
 - [PowerShell: Batch convert .xlsx -> .xlsx](https://www.thedataschool.co.uk/rosh-khan/powershell-batch-convert-xlsb-xlsx/)
